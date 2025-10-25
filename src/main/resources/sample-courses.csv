@@ -1,0 +1,11 @@
+Math1151,Math1150,5,Major1,Calculus II
+Math2153,Math1151,4,Major1,Calculus III
+Math2182H,Math1151,5,Major1,Honors Calculus II
+Math2568,Math2153,3,Major1,Linear Algebra
+Math2568H,Math2153,3,Major1,Honors Linear Algebra
+Math3345,Math2153,3,Major1,Foundations of Higher Mathematics
+Math3345H,Math2153,3,Major1,Honors Foundations of Higher Mathematics
+Math4530,Math2153,3,Major1,Probability
+Stat4201,Math2153,4,Major1,Intro to Math Stat I
+Stat4202,Math4530,4,Major1,Intro to Mathematical Statistics II
+Stat4202,Stat4201,4,Major1,Intro to Mathematical Statistics II
